@@ -1,10 +1,5 @@
 # US-Visa-Approval-Prediction
 
-## Live matarials docs
-
-[link](https://docs.google.com/document/d/1UFiHnyKRqgx8Lodsvdzu58LbVjdWHNf-uab2WmhE0A4/edit?usp=sharing)
-
-
 ## Git commands
 
 ```bash
