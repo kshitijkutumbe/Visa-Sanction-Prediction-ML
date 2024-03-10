@@ -43,7 +43,7 @@ python app.py
 ```bash
 
 
-export MONGODB_URL="mongodb+srv://<username>:<password>...."
+export MONGODB_URL="mongodb+srv://username:password@cluster0.hhzncfk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 export AWS_ACCESS_KEY_ID=<AWS_ACCESS_KEY_ID>
 

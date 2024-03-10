@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-project_name = "us_visa_prediction"
+project_name = "your_project_name"
 
 list_of_files = [
     f"{project_name}/__init__.py",
@@ -43,4 +43,4 @@ for filepath in list_of_files:
         with open(filepath, "w") as f:
             pass
     else:
-        print(f"File is already present at {filepath}")
+        print(f"File already present at {filepath}")
