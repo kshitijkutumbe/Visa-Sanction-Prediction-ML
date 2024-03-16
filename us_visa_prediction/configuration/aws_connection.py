@@ -1,7 +1,7 @@
 import boto3
 import os
-from dotenv import load_dotenv
-load_dotenv()
+#from dotenv import load_dotenv
+#load_dotenv()
 REGION_NAME = os.getenv("REGION_NAME")
 
 class S3Client:
