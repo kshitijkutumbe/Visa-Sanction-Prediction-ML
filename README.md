@@ -72,7 +72,7 @@ export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
 
 	2. Push your docker image to ECR
 
-	3. Launch Your EC2 
+	3. Launch Your EC2 instance
 
 	4. Pull Your image from ECR in EC2
 
