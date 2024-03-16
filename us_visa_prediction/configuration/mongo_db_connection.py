@@ -4,16 +4,11 @@ from us_visa_prediction.exception import USvisaException
 from us_visa_prediction.logger import logging
 
 import os
-from us_visa_prediction.constants import DATABASE_NAME
-from dotenv import load_dotenv
+from us_visa_prediction.constants import DATABASE_NAME, MONGODB_URL_KEY
 import pymongo
 import certifi
 
-load_dotenv()
-
 ca = certifi.where()
-
-MONGODB_URL_KEY = os.getenv('MONGODB_URL_KEY')
 
 class MongoDBClient:
     """

@@ -1,5 +1,6 @@
 import boto3
 import os
+from us_visa_prediction.constants import AWS_SECRET_ACCESS_KEY_ENV_KEY, AWS_ACCESS_KEY_ID_ENV_KEY,REGION_NAME
 #from dotenv import load_dotenv
 #load_dotenv()
 REGION_NAME = os.getenv("REGION_NAME")
