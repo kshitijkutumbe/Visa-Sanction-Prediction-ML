@@ -1,8 +1,8 @@
-# USA-Visa-Approval-Prediction
+# Visa-Sanction-Prediction-ML
 
-🔍 Description for US Visa Approval Prediction for Machine Learning Model - MLOps Project:
+🔍 Description for Visa Sanction Prediction for Machine Learning Model - MLOps Project:
 
-The US Visa Approval Prediction project aims to develop a machine learning model that can accurately predict the approval or rejection of US visa applications. This project adopts a modular coding approach, leveraging various technologies to build an end-to-end solution. The primary technologies used in this project include:
+The Visa Sanction Prediction project aims to develop a machine learning model that can accurately predict the approval or rejection of US visa applications. This project adopts a modular coding approach, leveraging various technologies to build an end-to-end solution. The primary technologies used in this project include:
 
 🐍 Python: Python, a versatile and widely-used programming language for machine learning, is employed for data preprocessing, feature engineering, and model development.
 
