@@ -2,11 +2,8 @@
 
 🔍 Description for Visa Sanction Prediction for Machine Learning Model - MLOps Project:
 
-<<<<<<< HEAD
-![Flowchart]()
+![Flowchart](https://raw.githubusercontent.com/kshitijkutumbe/Visa-Sanction-Prediction-ML/main/static/visa.svg?raw=True)
 
-=======
->>>>>>> 146a2df0ea0f0262ad670718726119eddfadd7f3
 The Visa Sanction Prediction project aims to develop a machine learning model that can accurately predict the approval or rejection of US visa applications. This project adopts a modular coding approach, leveraging various technologies to build an end-to-end solution. The primary technologies used in this project include:
 
 🐍 Python: Python, a versatile and widely-used programming language for machine learning, is employed for data preprocessing, feature engineering, and model development.
